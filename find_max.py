@@ -1,4 +1,4 @@
-# write function for find max number among 3 numbers
+# write function for find max number among 3 numbers .
 def max_num():
     num1 = int(input("Enter the first number :"))
     num2 = int(input("Enter the second number : "))

@@ -1,4 +1,4 @@
-# Write a function for calculate garde according to marks.
+# Write a function for calculate garde according to marks .
 def calculate_grade():
     marks =int(input("Enter your marks : "))
     if marks>=90:

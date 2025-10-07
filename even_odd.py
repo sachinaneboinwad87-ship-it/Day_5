@@ -1,4 +1,4 @@
-# write code to find given number is odd or even
+# write code to find given number is odd or even .
 def even_odd():
     num =int(input("Enter a number :"))
     if num % 2 == 0:
